@@ -7,18 +7,18 @@
   </tr>
   <tr>
     <td>select * from customers;</td>
-    <td></td>
+    <td><img src='1.PNG'></td>
   </tr>
   <tr>
     <td>select * from suppliers;</td>
-    <td></td>
+    <td><img src='2.PNG'></td>
   </tr>
   <tr>
     <td>select * from company_orders;</td>
-    <td></td>
+    <td><img src='3.PNG'></td>
   </tr>
   <tr>
     <td>select * from customers where country='Mexico'</td>
-    <td></td>
+    <td><img src='4.PNG'></td>
   </tr>
 </table>
